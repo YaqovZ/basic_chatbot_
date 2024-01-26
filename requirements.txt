@@ -1,0 +1,5 @@
+openai
+requests
+python-dotenv  # If you're using dotenv to manage environment variables
+jupyter  # If you're running the project as a Jupyter notebook
+
